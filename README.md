@@ -3,6 +3,7 @@ Pick one generation and solving alogithm in the menu then submit to start visual
 Included generation algorithms: 
 - Prim's Algorithm
 - Recursive Backtracker
+
 Included solving algorithms:
 - Breadth First Search
 - Depth First Search
