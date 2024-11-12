@@ -10,3 +10,5 @@ Included solving algorithms:
 - Depth First Search
 - Astar Search
 - Dijkstra's Algorithm
+
+Run Main.py to launch visualizer
